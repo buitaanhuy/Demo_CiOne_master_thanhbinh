@@ -137,6 +137,7 @@ li:hover {
 .content-1 img {
     float: left;
     padding-right: 25px;
+    width: 200px;
 }
 
 .content-2 {
@@ -168,6 +169,8 @@ div.content-3 {
 .content-3 img {
     float: left;
     padding-right: 25px;
+    width: 200px;
+
 }
 
 div.content-4 {
@@ -177,6 +180,8 @@ div.content-4 {
 .content-4 img {
     float: left;
     padding-right: 25px;
+    width: 200px;
+
 } 
 
 div.content-5 {
@@ -185,6 +190,7 @@ div.content-5 {
 
 .content-5 img {
     float: left;
+    width: 200px;
     padding-right: 25px;
 }
 
@@ -194,6 +200,7 @@ div.content-6 {
 
 .content-6 img {
     float: left;
+    width: 200px;
     padding-right: 25px;
 }
 
@@ -203,6 +210,7 @@ div.content-7 {
 
 .content-7 img {
     float: left;
+    width: 200px;
     padding-right: 25px;
 }
 
